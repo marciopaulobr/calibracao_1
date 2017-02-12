@@ -1,0 +1,27 @@
+Name	Short Name	Unit	Parameter ID
+Convective available potential energy	cape	J kg-1	59
+Maximum temperature at 2 metres in the last 6 hours	mx2t6	K	121
+Minimum temperature at 2 metres in the last 6 hours	mn2t6	K	122
+Surface pressure	sp	Pa	134
+Total column water	tcw	kg m-2	136
+Surface sensible heat flux	sshf	J m-2	146
+Surface latent heat flux	slhf	J m-2	147
+Mean sea level pressure	msl	Pa	151
+10 metre U wind component	10u	m s-1	165
+10 metre V wind component	10v	m s-1	166
+2 metre temperature	2t	K	167
+2 metre dewpoint temperature	2d	K	168
+Land-sea mask	lsm	(0 - 1)	172
+Surface net solar radiation	ssr	J m-2	176
+Surface net thermal radiation	str	J m-2	177
+Top net thermal radiation	ttr	J m-2	179
+Sunshine duration	sund	s	189
+Skin temperature	skt	K	235
+Convective inhibition	cin	J kg-1	228001
+Orography	orog	m	228002
+Soil Moisture	sm	kg m-3	228039
+Soil Temperature	st	K	228139
+Snow depth water equivalent	sd	kg m-2	228141
+Snow Fall water equivalent	sf	kg m-2	228144
+Total Cloud Cover	tcc	%	228164
+Total Precipitation	tp	kg m-2	228228
